@@ -1,1 +1,2 @@
 ooooo
+git is awesome!
